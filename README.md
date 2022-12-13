@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="flag1.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="flag2.gif" height="175px"/></a>
 
 ### OS
 Linux
