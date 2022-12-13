@@ -1,4 +1,5 @@
-https://bestanimations.com/media/russia/720148303russia-flag-7.gif
+
+<a href="#"><img width="100%" height="auto" src="[logo.gif](https://bestanimations.com/media/russia/720148303russia-flag-7.gif)" height="175px"/></a>
 
 ### 💻 OS
 ![](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=Ubuntu&logoColor=black)
