@@ -3,11 +3,14 @@
 
 ### OS
 Linux
+
 Windows
 
 ### Programming languages
 Python
+
 C++
+
 Bash
 
 ### Frameworks and libraries
@@ -15,5 +18,7 @@ Flask
 
 ### Web Design Languages
 HTML
+
 CSS
+
 Bootstrap
