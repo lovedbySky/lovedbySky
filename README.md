@@ -11,11 +11,11 @@
 
 ### Programming languages
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
-![](C++)
+C++
 ![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 
 ### Frameworks and libraries
-![](Flask)
+Flask
 
 ### Web Design Languages
 ![](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
